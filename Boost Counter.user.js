@@ -5,11 +5,12 @@
 // @description  See boosting stats
 // @author       Killa
 // @match        https://steamcommunity.com/id/*/gcpd/730/
+// @match        https://steamcommunity.com/id/*/gcpd/730
 // @match        https://steamcommunity.com/profiles/*/gcpd/730/
+// @match        https://steamcommunity.com/profiles/*/gcpd/730
 // @match        https://steamcommunity.com/profiles/*/gcpd/730/?tab=accountmain
 // @match        https://steamcommunity.com/id/*/gcpd/730/?tab=accountmain
 // @match        https://steamcommunity.com/id/*/gcpd/730?tab=accountmain
-// @match        https://steamcommunity.com/profiles/*/gcpd/730?tab=accountmain
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
